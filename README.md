@@ -33,7 +33,7 @@ WarfaRef is a cross-platform mobile application designed to modernize anticoagul
 </p>
 
 <p align="center">
-  <a href="videos/demo-video.mp4">Watch Demo Video</a>
+  <a href="https://drive.google.com/file/d/1-xKfvofdFZQ2DUevzPjFnMo90_rfr0Qj/view?usp=sharing">Watch Demo Video</a>
 </p>
 
 ---
