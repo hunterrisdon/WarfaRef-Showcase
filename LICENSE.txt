@@ -1,12 +1,12 @@
 WarfaRef Showcase License – View-Only Intellectual Property Agreement
 
 Copyright © 2025
-Hunter Risdon, Numa Yazadi, Somto Ikeanyi
-University of California, San Diego
+Hunter Risdon
+Salve Therapeutics
 
 All rights reserved.
 
-This repository (“WarfaRef Showcase Repository”) is provided exclusively for informational and evaluative purposes. By accessing or interacting with any part of this repository—including text, design assets, diagrams, application descriptions, visual mockups, and multimedia files (“Content”)—the viewer (“User”) agrees to the following terms:
+This repository (“WarfaRef-Showcase”) is provided exclusively for informational and evaluative purposes. By accessing or interacting with any part of this repository—including text, design assets, diagrams, application descriptions, visual mockups, and multimedia files (“Content”)—the viewer (“User”) agrees to the following terms:
 
 1. Permitted Uses
    Users may:
