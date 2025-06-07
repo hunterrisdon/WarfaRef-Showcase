@@ -32,25 +32,45 @@ WarfaRef is a cross-platform mobile application designed to modernize anticoagul
 ---
 
 ## Screenshots & Visuals
-> _The following are placeholders for actual media content to be uploaded to the repository._
+> _The following screenshots demonstrate the primary user flows and features of the WarfaRef mobile application._
 
-**App Screenshots**  
-![App Screenshot Placeholder](images/app-screenshots.png)
+<table>
+  <tr>
+    <td><strong>Login</strong><br><img src="images/login-screen.png" width="200"/></td>
+    $1
+    <td><strong>Questionnaire</strong><br><img src="images/questionnaire-screen.png" width="200"/></td>
+    <td><strong>Notifications</strong><br><img src="images/notification-list.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><strong>Statistics (Averages)</strong><br><img src="images/statistics-averages.png" width="200"/></td>
+    <td><strong>Statistics (INR Graph)</strong><br><img src="images/statistics-graph-inr.png" width="200"/></td>
+    <td><strong>Statistics (All Graphs)</strong><br><img src="images/statistics-graph-full.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><strong>Abnormalities</strong><br><img src="images/statistics-abnormalities.png" width="200"/></td>
+    <td><strong>Calendar</strong><br><img src="images/calendar-screen.png" width="200"/></td>
+    <td><strong>Chat</strong><br><img src="images/chat-screen.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><strong>Settings</strong><br><img src="images/settings-screen.png" width="200"/></td>
+    <td><strong>Home</strong><br><img src="images/home-screen.png" width="200"/></td>
+  </tr>
+</table>
 
 **Original Figma Design**  
-![Figma Mockup Placeholder](images/figma-design.png)
+![Figma Mockup](images/figma-design.png)
 
 **Video Demo**  
-[Link to Demo Video Placeholder](videos/demo-link.mp4)
+[Link to Demo Video](videos/demo-link.mp4)
 
 **WarfaRef Design Poster**  
-![Poster Placeholder](images/warfaref-poster.png)
+![Poster](images/warfaref-poster.png)
 
 **Workflow Diagram**  
-![Workflow Placeholder](images/workflow-diagram.png)
+![Workflow Diagram](images/workflow-diagram.png)
 
-**Competitive Landscape**  
-![Competitor Diagram Placeholder](images/competitor-diagram.png)
+**Competitor Matrix**  
+![Competitor Diagram](images/competitor-diagram.png)
 
 ---
 
