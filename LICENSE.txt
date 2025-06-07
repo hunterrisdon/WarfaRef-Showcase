@@ -1,0 +1,40 @@
+WarfaRef Showcase License – View-Only Intellectual Property Agreement
+
+Copyright © 2025
+Hunter Risdon, Numa Yazadi, Somto Ikeanyi
+University of California, San Diego
+
+All rights reserved.
+
+This repository (“WarfaRef Showcase Repository”) is provided exclusively for informational and evaluative purposes. By accessing or interacting with any part of this repository—including text, design assets, diagrams, application descriptions, visual mockups, and multimedia files (“Content”)—the viewer (“User”) agrees to the following terms:
+
+1. Permitted Uses
+   Users may:
+   - View and reference the Content for personal, educational, or professional evaluation purposes.
+   - Share links to this repository for viewing.
+
+2. Prohibited Uses
+   Users may not:
+   - Download, copy, clone, redistribute, or reproduce the Content in any form;
+   - Modify, adapt, derive, or transform any part of the Content;
+   - Use the Content for commercial purposes, product development, academic publication, or demonstration;
+   - Incorporate the Content in training data, AI models, or automated systems.
+
+3. No Source Code Access
+   This license does not confer access to or rights over the software codebase of the WarfaRef mobile application. Access to software components may be requested separately and will require mutual agreement and potentially a non-disclosure or material transfer agreement.
+
+4. Attribution Requirements
+   Any reference to this project in approved media or presentations must acknowledge the project team and the University of California, San Diego.
+
+5. Disclaimer of Warranty
+   The Content is provided “as is,” without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+6. Reservation of Rights
+   All rights not expressly granted herein are reserved by the authors.
+
+7. Governing Law
+   This license shall be governed by and construed under the laws of the State of California, United States.
+
+For permissions, academic use, or source code access inquiries, contact:  
+Hunter Risdon – risdonhunter@gmail.com  
+LinkedIn – www.linkedin.com/in/hunter-risdon
