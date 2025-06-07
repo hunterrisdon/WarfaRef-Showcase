@@ -34,28 +34,22 @@ WarfaRef is a cross-platform mobile application designed to modernize anticoagul
 ## Screenshots & Visuals
 > _The following screenshots demonstrate the primary user flows and features of the WarfaRef mobile application._
 
-<table>
-  <tr>
-    <td><strong>Login</strong><br><img src="images/login-screen.png" width="200"/></td>
-    $1
-    <td><strong>Questionnaire</strong><br><img src="images/questionnaire-screen.png" width="200"/></td>
-    <td><strong>Notifications</strong><br><img src="images/notification-list.png" width="200"/></td>
-  </tr>
-  <tr>
-    <td><strong>Statistics (Averages)</strong><br><img src="images/statistics-averages.png" width="200"/></td>
-    <td><strong>Statistics (INR Graph)</strong><br><img src="images/statistics-graph-inr.png" width="200"/></td>
-    <td><strong>Statistics (All Graphs)</strong><br><img src="images/statistics-graph-full.png" width="200"/></td>
-  </tr>
-  <tr>
-    <td><strong>Abnormalities</strong><br><img src="images/statistics-abnormalities.png" width="200"/></td>
-    <td><strong>Calendar</strong><br><img src="images/calendar-screen.png" width="200"/></td>
-    <td><strong>Chat</strong><br><img src="images/chat-screen.png" width="200"/></td>
-  </tr>
-  <tr>
-    <td><strong>Settings</strong><br><img src="images/settings-screen.png" width="200"/></td>
-    <td><strong>Home</strong><br><img src="images/home-screen.png" width="200"/></td>
-  </tr>
-</table>
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px;">
+  <div style="display: flex; gap: 12px; flex-wrap: nowrap;">
+    <img src="images/login-screen.png" alt="Login Screen" width="250" />
+    <img src="images/home-screen.png" alt="Home Screen" width="250" />
+    <img src="images/data-entry-screen.png" alt="Data Entry" width="250" />
+    <img src="images/statistics-averages.png" alt="Statistics Averages" width="250" />
+    <img src="images/statistics-graph-inr.png" alt="Statistics INR Graph" width="250" />
+    <img src="images/statistics-graph-full.png" alt="Statistics Full Graph" width="250" />
+    <img src="images/statistics-abnormalities.png" alt="Statistics Abnormalities" width="250" />
+    <img src="images/calendar-screen.png" alt="Calendar" width="250" />
+    <img src="images/chat-screen.png" alt="Chat Screen" width="250" />
+    <img src="images/notification-list.png" alt="Notifications" width="250" />
+    <img src="images/questionnaire-screen.png" alt="Questionnaire Screen" width="250" />
+    <img src="images/settings-screen.png" alt="Settings Screen" width="250" />
+  </div>
+</div>
 
 **Original Figma Design**  
 ![Figma Mockup](images/figma-design.png)
