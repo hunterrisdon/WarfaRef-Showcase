@@ -5,7 +5,7 @@ Developed at the University of California, San Diego in partnership with Salve T
 Team Members: Hunter Risdon, Numa Yazadi, Somto Ikeanyi
 Advisor: Stefan Lukianov
 
-![WarfaRef Logo Placeholder](images/warfaref-icon.png)
+![WarfaRef Logo](images/warfaref-icon.png)
 ---
 
 ## Overview
