@@ -7,14 +7,16 @@
 <h2 align="center">WarfaRef</h2>
 <p align="center"><em>A Digital Health Mobile Application for Warfarin Self-Monitoring and Early Risk Detection</em></p>
 
-**Developed at the University of California, San Diego in partnership with Salve Therapeutics**
 
-**Team Members:**  
-- Hunter Risdon  
-- Numa Yazadi  
-- Somto Ikeanyi  
+## Team & Contributions
+**Advisors:** Stefan Lukianov and Daniel Wang
+- **Hunter Risdon**: Full-stack development, UI/UX design, backend data processing, algorithm integration
+- **Numa Yazadi**: Algorithm development, frontend/backend bridging, usability testing
+- **Somto Ikeanyi**: Iconography
 
-**Faculty Advisor:** Stefan Lukianov
+
+> Developed at **UC San Diego – Bioengineering Department** in partnership with **Salve Therapeutics**
+
 
 ---
 
@@ -108,16 +110,7 @@ In the next phase, we aim to complete pilot deployment in San Diego clinics, pub
 
 ---
 
-## Team & Contributions
-- **Hunter Risdon**: Full-stack development, UI/UX design, backend data processing, algorithm integration
-- **Numa Yazadi**: UI/UX design, algorithm development, frontend/backend bridging, usability testing
-- **Somto Ikeanyi**: Iconography
-
-> Developed at **UC San Diego – Bioengineering Department** in partnership with **Salve Therapeutics**
-
----
-
-## 📸 Screenshots & Visuals
+## Screenshots & Visuals
 
 > _The following screenshots demonstrate the primary user flows and features of the WarfaRef mobile application._
 
